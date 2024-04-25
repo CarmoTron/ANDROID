@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/uten"
+        android:icon="@drawable/rack"
+        android:title="@string/menuUtensilios"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/fruta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/fruit"
+        android:title="@string/menuFruta"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/animais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/paw"
+        android:title="@string/menuAnimais"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/menuSair"
+        app:showAsAction="ifRoom" />
+</menu>

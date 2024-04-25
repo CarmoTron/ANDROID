@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Conversor</string>
+    <string name="ctxmenu" translatable="false">Menu</string>
+    <string name="Sair">Sair</string>
+    <string name="Distancias">Distâncias</string>
+    <string name="ctxvoltar">Voltar</string>
+    <string name="distancia">Digite o valor, em metros</string>
+    <string name="btnconverte">Converter</string>
+    <string name="Nome" translatable="false">Mesure Convertor</string>
+    <string name="BTNConverte">Distâncias</string>
+    <string name="BtnMInfo">Medidas Informáticas</string>
+    <string name="BtnMetInfo">Medidas Informáticas</string>
+    <string name="BtnMoedas">Moedas</string>
+    <string name="BtnPesos">Pesos</string>
+    <string name="ctxTituloTemp">Temperatura</string>
+    <string name="ctxTInicial">Temperatura Inicial</string>
+    <string name="ctxTempConverte">Valor a converter</string>
+    <string name="ctxTempFinal">Temperatura Final</string>
+    <string name="Resultado">Resultado =</string>
+    <string name="eurosConverte">Digite o valor, em €</string>
+    <string name="pesoHint">Digite o peso, em gramas</string>
+    <string name="byteHint">Digite o valor, em bytes</string>
+    <string name="desenvolvido">Desenvolvido por Bruno Carmo</string>
+    <string name="bit">01100</string>
+
+</resources>

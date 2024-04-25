@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tintos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/vinhotintoicon2"
+        android:title="@string/optintos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/brancos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/vinhobrancoicon"
+        android:title="@string/opvbranco"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/espirituosos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/espier"
+        android:title="@string/opbespirito"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/sair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="@string/opsair"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="Sair">Quittez</string>
+    <string name="Distancias">Mesure de distance</string>
+    <string name="ctxvoltar">Retourner</string>
+    <string name="distancia">Entrez la valeur, en mètres</string>
+    <string name="btnconverte">Convertir</string>
+    <string name="BTNConverte">Distances</string>
+    <string name="BtnMInfo">Mesure Informatique</string>
+    <string name="BtnMetInfo">Mesure Informatique</string>
+    <string name="BtnMoedas">Mesures des pièces</string>
+    <string name="BtnPesos">Mesure de poids</string>
+    <string name="ctxTituloTemp">Température</string>
+    <string name="ctxTInicial">Température initiale</string>
+    <string name="ctxTempFinal">Température finale</string>
+    <string name="ctxTempConverte">Valeur à convertir</string>
+    <string name="Resultado">Résultat =</string>
+    <string name="eurosConverte">Saisissez le montant, en €</string>
+    <string name="pesoHint">Tapez le poids en grammes</string>
+    <string name="byteHint">Tapez la valeur en octets</string>
+    <string name="desenvolvido">Développé par Bruno Carmo</string>
+</resources>

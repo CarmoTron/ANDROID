@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translate AVEC</string>
+    <string name="btnreprod">Reproduzir</string>
+    <string name="menuUtensilios">Utensílios</string>
+    <string name="menuFruta">Fruta</string>
+    <string name="menuAnimais">Animais</string>
+    <string name="menuSair">Sair</string>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Garrafeira</string>
+    <string name="optintos">Vinhos Tintos</string>
+    <string name="opvbranco">Vinhos Brancos</string>
+    <string name="opbespirito">Bebidas Espirituosas</string>
+    <string name="opsair">Sair</string>
+    <string name="preco">Preço :</string>
+    <string name="vinhotinto1">Vinho Trinca Bolotas</string>
+    <string name="destinto1">Vinho Regional Alentejano ideal para carnes, 14% teor de alcóol.</string>
+    <string name="precotinto1">6.99€</string>
+    <string name="tinto2">Vinho</string>
+    <string name="otinto2">Vallado</string>
+    <string name="otinto4">Crasto</string>
+    <string name="info3">Vinho com pautas achocolatas e talinos persistentes.</string>
+    <string name="infotinto4">Vinho proveniente de vinhas Syrah com aroma a frutos silvestres.</string>
+    <string name="precotinto4">5.49€</string>
+    <string name="precotinto2">45.78€</string>
+    <string name="infotinto2">Um vinho com uma estrutura elegante e refina,o seu paladar é persistente e com combina muito bem com .</string>
+    <string name="opbrancos">Vinhos Brancos</string>
+    <string name="obranco1">Crasto</string>
+    <string name="obranco2">Equilibrio</string>
+    <string name="obranco3">Courela</string>
+    <string name="obranco4">JP</string>
+    <string name="infobranco1">Um vinho sedutor que termina vibrante, fresco e persistente. Excelente intensidade aromática, onde se destacam frescas notas de lima e, toranja.</string>
+    <string name="infobranco2">Vinho marcado por aromas e sabores a fruta cítrica muito fresca, pelas leves especiarias e pela elevada salinidade.</string>
+    <string name="infobranco3">Courela é um vinho branco frutado e fresco do Alentejo produzido pela vinícola de Cortes de Cima.</string>
+    <string name="infobranco4">Vinho floral e frutado, com alguma acidez e uma estrutura elegante que confere um final fresco, longo e persistente.</string>
+    <string name="precobranco1">10.99€</string>
+    <string name="precobranco2">8.95€</string>
+    <string name="precobranco3">6.75€</string>
+    <string name="precobranco4">3.35€</string>
+    <string name="oespi1">Jack Daniels</string>
+    <string name="oespi2">Cachaça 51</string>
+    <string name="oespi3">Khalua</string>
+    <string name="oespi4">Hendricks</string>
+    <string name="infoespi1">Foi feito 80 % de milho, 12% centeio e 8% malte, através do método de filtração com carvão vegetal.</string>
+    <string name="infoespi2">A Cachaça 51 é uma marca brasileira de cachaça produzida pela Companhia Müller de Bebidas desde 1951.</string>
+    <string name="infoespi3">Nascido no México em 1936, Kahlua é o mais famoso licor de café do mundo!</string>
+    <string name="infoespi4">Hendricks Gin. Deliciosamente infundido com Rosa e Pepino. HENDRICKS é um gin inusitado criado a partir de onze requintados botânicos.</string>
+    <string name="precooespi1">22.70€</string>
+    <string name="precooespi2">16.95€</string>
+    <string name="precooespi3">17.50€</string>
+    <string name="precooespi4">28.19€</string>
+
+
+</resources>

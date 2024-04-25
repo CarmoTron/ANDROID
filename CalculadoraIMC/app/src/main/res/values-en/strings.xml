@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="titulo_app">Calculate BMI</string>
+    <string name="smspeso">"Insert your weight "</string>
+    <string name="smsaltura">Insert your height</string>
+    <string name="btnsair">Quit</string>
+    <string name="dev">Developed by CarmoTron</string>
+    <string name="imc1">You are underweight!</string>
+    <string name="imc2">" Congratulations! You are at your ideal weight!"</string>
+    <string name="imc3">You are overweight!</string>
+    <string name="imc4">" You are Grade I Obese!"</string>
+    <string name="imc5">You are Grade II Obese!</string>
+    <string name="imc6">Grade III or Morbid Obesity</string>
+</resources>

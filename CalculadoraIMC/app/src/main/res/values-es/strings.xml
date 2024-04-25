@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="titulo_app">Calcolare l\'IMC</string>
+    <string name="smspeso">Introduce tu peso</string>
+    <string name="smsaltura">Introduce tu altura</string>
+    <string name="btnsair">Uscire</string>
+    <string name="dev">Desarrollado por CarmoTron</string>
+    <string name="imc1">¡Tienes bajo peso!</string>
+    <string name="imc2">¡Felicitaciones! ¡Estás en tu peso ideal!</string>
+    <string name="imc3">¡Tienes sobrepeso!</string>
+    <string name="imc4">" ¡Eres obeso de grado I!"</string>
+    <string name="imc5">¡Eres obeso de grado II!</string>
+    <string name="imc6">Obesidad mórbida o grado III</string>
+</resources>

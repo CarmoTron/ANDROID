@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="titulo_app">Calcula IMC</string>
+    <string name="smspeso">Insira o seu peso(kg)</string>
+    <string name="smsaltura">Insira a sua altura(cm)</string>
+    <string name="btnsair">Sair</string>
+    <string name="dev">Desenvolvido por CarmoTron</string>
+    <string name="imc1">Você está abaixo do peso ideal!</string>
+    <string name="imc2">Parabéns! Você está no peso ideal!</string>
+    <string name="imc3">Você está acima do peso ideal!</string>
+    <string name="imc4">Você está Obeso Grau I!</string>
+    <string name="imc5">Você está Obeso Grau II!</string>
+    <string name="imc6">Obesidade Grau III ou Mórbida</string>
+</resources>
